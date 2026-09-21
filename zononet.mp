@@ -1,0 +1,2 @@
+numeric u;
+pair vertices[];
